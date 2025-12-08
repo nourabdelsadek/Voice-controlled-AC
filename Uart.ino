@@ -1,6 +1,6 @@
 /******************************************************************
 file: UART Functions Code
-author: Nour Eldin, Tarek Mahmoud Younes, Kareem Magdy
+author: Nour Eldien, Tarek Mahmoud Younes, Kareem Magdy
 brief: includes definitions of the only used UART functions in the project 
 *******************************************************************/
 /*************Include Section Start**********/

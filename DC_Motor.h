@@ -9,10 +9,5 @@ typedef enum {
 void DC_Init();
 void DC_Start(unsigned char MotorID, tenuDirection Direction, unsigned char Speed);
 void DC_Stop(unsigned char MotorID);
-/*
-void fan(int speed);
-void hood(int speed);
-void stop();
-*/
 
 #endif

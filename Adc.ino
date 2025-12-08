@@ -1,6 +1,6 @@
 /******************************************************************
-file: UART Functions Code
-author: Nour Eldin, Tarek Mahmoud Younes, Kareem Magdy
+file: ADC Functions Code
+author: Nour Eldien, Tarek Mahmoud Younes, Kareem Magdy
 brief: includes definitions of ADC functions
 *******************************************************************/
 

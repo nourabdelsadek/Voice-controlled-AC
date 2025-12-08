@@ -1,6 +1,6 @@
 /******************************************************************
-file: UART Functions Code
-author: Nour Eldin, Tarek Mahmoud Younes, Kareem Magdy
+file: String Functions Code
+author: Nour Eldien, Tarek Mahmoud Younes, Kareem Magdy
 brief: includes definitions string manipulation functions
 *******************************************************************/
 /*************Include Section Start**********/
