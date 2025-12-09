@@ -1,0 +1,20 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Microcontroller IC,ATmega328P-PU(DIP-28),1,Atmel,ATmega328P,https://www.atmel.com/images/doc8161.pdf,215,215
+Decoupling Capacitor,100nF,1,,,,1,1
+Temperatue sensor,LM35,2,,,,100,200
+Resistor,"220 Ohm, 0.25W",2,,,,1.75,3.5
+Push button,4 pin,1,,,,0.75,0.75
+Jumper Wires,Male-to-Male,30,,,,0.75,22.5
+Crystal Oscillator,16MHz,1,,,,5,5
+Ceramic Capacitors,22pF,2,,,,0.5,1
+Pull-up Resistor,10kohm,1,,,,0.2,0.2
+Li-ion battery,rechargeable 18650 battery,3,,,,75,225
+potintiometer,B1K,1,,,,5.5,5.5
+LCD,16 pin,1,,,,70,70
+holder 3 cells,18650 battery holder ,1,,,,22,22
+Motor driver ,L298N,1,,,,75,75
+DC motor,12 volt,1,,,,195,195
+Propeller,2 wings,1,,,,30,30
+Breadboard,830 pin,1,,,,35,35
+,,,,,,,Total price
+,,,,,,,1106.45

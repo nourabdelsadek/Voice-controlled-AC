@@ -1,0 +1,17 @@
+Part,Description,Quantity,Manufacturer,Part Number,Datasheet,Price (EGP),Total Price (EGP)
+Arduino Uno,Arduino Uno Rev3,1,Arduino,A000066,https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf,420,420
+Arduino Uno cable,usb type A to usb type B,1,Arduino,,,30,30
+holder 3 cells,18650 battery holder ,1,,,,22,22
+Breadboard,830 pin,1,,,,35,35
+Push button,4 pin,1,,,,0.75,0.75
+Resistor,220 ohm,2,,,,1.75,3.5
+Jumper wires,male to male - male to female,33,,,,0.75,24.75
+DC motor,12 volt,1,,,,195,195
+potintiometer,B1K,1,,,,5.5,5.5
+LCD,16 pin,1,,,,70,70
+Motor driver ,L298N,1,,,,75,75
+Li-ion battery,rechargeable 18650 battery,3,,,,75,225
+Temprature sensor,LM35,2,,,,100,200
+Propeller,2 wings,1,,,,30,30
+,,,,,,,Total price
+,,,,,,,1336.5
